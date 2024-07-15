@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-pp-checker",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "pp checker plugin",
   "keywords": [
     "eslint",
@@ -18,7 +18,7 @@
     "update:eslint-docs": "eslint-doc-generator"
   },
   "dependencies": {
-    "micromatch": "^4.0.5",
+    "micromatch": "^4.0.7",
     "requireindex": "^1.2.0"
   },
   "devDependencies": {
