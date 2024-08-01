@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-pp-checker",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "pp checker plugin",
   "keywords": [
     "eslint",
